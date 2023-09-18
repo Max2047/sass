@@ -4,7 +4,33 @@
     box-sizing: border-box;
 }
 
+/* .main {
+    border: 1px dashed red;
+}
 h1 {
     color: blue;
     padding: 30px;
 }
+.main h1 {
+    color: purple;
+    padding: 30px;
+}
+.main h1 span {
+    color: orange;
+}
+
+.p1 {
+    color: red;
+    @include
+}
+.p2 {
+    color:green;
+    @include
+}
+.p3 {
+    color:blue ;
+    @inclide
+}
+.p4 {
+    color: brown;
+} */
